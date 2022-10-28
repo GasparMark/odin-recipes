@@ -1,0 +1,19 @@
+/* styles.css */
+
+* {
+    background-color: wheat;
+}
+
+#title {
+    font-size: 50px;
+    color: tomato;
+}
+
+.recipes {
+    color: white;
+}
+
+.description {
+    color: aquamarine;
+    font-size: 55px;
+}
